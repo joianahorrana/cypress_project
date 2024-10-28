@@ -1,0 +1,4 @@
+Com o avanço da IA, os processos de automação de testes podem proporcionar novas "visões" se baseando em dados e comportamentos que o usuário pode realizar.
+Com a análise de dados a identificação de certos padrões pode acontecer com maior facilidade. Com um trabalho minucioso realizado, a inteligência artificial
+pode priorizar testes com questões que realmente ocorrem com maior frequência, garantindo uma maior viabilidade do sistema.
+Esse meio de análise além de mais ágil, pode antecipar certos erros e priorizar questões mais importantes para o desenvolvimento do sistema. 
